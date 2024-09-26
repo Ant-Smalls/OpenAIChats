@@ -1,0 +1,1 @@
+The answers to the homework questions for the chats belong in the src/tests/java/org.OpenAIChats. The ChatsResponse file contains the messages/queries to the chat and vision model. Additionally, the image url is located in this file.
